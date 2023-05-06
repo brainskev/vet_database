@@ -7,5 +7,6 @@ CREATE TABLE animals (
     escape_attempts INTEGER,
     neutered BOOLEAN,
     weight_kg DECIMAL(5,2)
+    species VARCHAR(255)
 );
 
