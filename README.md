@@ -102,6 +102,18 @@ This repository includes files with plain SQL that can be used to run the projec
 - Twitter: [@kelvin_ngotho](https://twitter.com/kevin_ngotho?s=09/)
 - LinkedIn: [kelvin](https://www.linkedin.com/in/kelvinkaviku/)
 
+👤 **Akande Abdulwasiu**
+
+- GitHub: [@Newtayo](https://github.com/Newtayo)
+- Twitter: [@Omortayoh](https://twitter.com/Omortayoh)
+- LinkedIn: [Akande Abdulwasiu](https://linkedin.com/in/AkandeAbdulwasiu)
+
+👤 **George M'sapenda**
+
+- GitHub: [@c00p75](https://github.com/c00p75)
+- LinkedIn: [George M'sapenda](https://www.linkedin.com/in/georgemsapenda/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
